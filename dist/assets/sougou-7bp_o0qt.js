@@ -1,0 +1,1 @@
+import{r as t}from"./index-xNHO6Q0p.js";const n="https://www.sogou.com/sogou";let o;const i=function(){throw new Error("Module not implemented!")},s=t({});function c(r){return o=new URL(n),o.searchParams.append("query",r),o.toString()}export{s as dynamicFormOptions,c as joinDirectly,i as joinParams};

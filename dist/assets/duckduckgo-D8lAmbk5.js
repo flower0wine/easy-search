@@ -1,0 +1,1 @@
+import{r as n}from"./index-xNHO6Q0p.js";const r="https://duckduckgo.com";let o;const c=function(){throw new Error("Module not implemented!")},i=n({});function a(t){return o=new URL(r),o.searchParams.append("q",t),o.toString()}export{i as dynamicFormOptions,a as joinDirectly,c as joinParams};

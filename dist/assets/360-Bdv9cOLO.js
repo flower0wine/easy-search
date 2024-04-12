@@ -1,0 +1,1 @@
+import{r as n}from"./index-xNHO6Q0p.js";const r="https://www.so.com/s";let o;const i=function(){throw new Error("Module not implemented!")},s=n({});function c(t){return o=new URL(r),o.searchParams.append("q",t),o.toString()}export{s as dynamicFormOptions,c as joinDirectly,i as joinParams};
