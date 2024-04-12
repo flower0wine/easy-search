@@ -1,0 +1,1 @@
+import{r}from"./index-AZCJCfWf.js";const o="https://yandex.com/search";let t;const a=function(){throw new Error("Module not implemented!")},c=r({});function i(n){return t=new URL(o),t.searchParams.append("text",n),t.toString()}export{c as dynamicFormOptions,i as joinDirectly,a as joinParams};
